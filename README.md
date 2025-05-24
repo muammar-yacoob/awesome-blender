@@ -176,6 +176,7 @@
 
 ### 🧊Modeling [^](#table)
 
+-   [Tidy-Monkey](https://github.com/muammar-yacoob/Tidy-Monkey) : A productivity toolkit for Blender with features like topology cleanup, material management, texture cleanup, and automated FBX/GLB export with texture packing. [![][repo]](https://github.com/muammar-yacoob/Tidy-Monkey) [![market]](https://superhivemarket.com/products/tidy-monkey)
 -   [MACHIN3tools](https://gumroad.com/l/MACHIN3tools) : is a free, continuously evolving collection of blender tools and pie menus in a single customizable package. [![][repo]](https://github.com/machin3io/MACHIN3tools) [![market]](https://blendermarket.com/products/MACHIN3tools)
 -   [QBlocker](https://qblockerdocs.readthedocs.io/) : is an interactive object creation tool for Blender.
 -   [fspy](https://fspy.io/) : is an open-source camera matching app, extremely useful for modeling directly from a reference image. [(blender addon)](https://github.com/stuffmatic/fSpy-Blender)
